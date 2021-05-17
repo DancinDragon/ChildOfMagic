@@ -1,4 +1,12 @@
 # ChildOfMagic
+
+Controls:
+        A==>Moves Left
+        D==>Moves Right
+        Spacebar ==>Jump
+        Ctrl ==>Roll under
+
+
 This is the first draft of my first game called "Child Of Magic".
 The assests have been created by: o_lobster
 Link: https://o-lobster.itch.io/
